@@ -1,4 +1,4 @@
-Description
+
 The QR Code Generator is a Node.js command-line tool that converts a user-provided URL into a QR code image, simplifying the process of generating scannable QR codes for URLs.
 
 Usage
