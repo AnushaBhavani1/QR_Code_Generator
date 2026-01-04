@@ -4,9 +4,7 @@ The QR Code Generator is a Node.js command-line tool that converts a user-provid
 Usage
 Before using the QR Code Generator, ensure that you have Node.js installed on your system.
 
-Clone and Set Up
-Clone or download this repository to your local machine.
-git clone https://github.com/VishalOjhaa/qr-code-generator-nodejs.git
+
 Navigate to the project directory.
 cd qr-code-generator-nodejs
 Install project dependencies.
